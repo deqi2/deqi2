@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**😄 I'm De Qi**
+- 💻 Computer science student & code enthusiast extraordinaire! ✨
+- 🚀 Coding for fun, joy, and world peace! Because why not? 🕊️
+- 🔮 Fan of languages that rock both OOP and functional programming. Best of both worlds! 🌈
+- 💖 Current coding crushes: Kotlin, Go, and Rust. Total besties! 🦀🎭🐹
+
